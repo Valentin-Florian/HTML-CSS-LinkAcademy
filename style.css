@@ -1,0 +1,52 @@
+body{
+    background-image: url("pics/background.jpg");
+}
+header{
+    text-align: center;
+    color:rgb(208, 255, 0);
+}
+.btn-group {
+    height: 100%;
+    width: 20%;
+}
+.content-group{
+    display: inline-block;
+    height: 100%;
+    width: 79%;
+    top: 10px;
+}
+p{
+    color: white;
+}
+h3{
+    color:rgb(115, 128, 0);
+}
+div {
+    display: inline-block;
+    vertical-align: top;
+  }
+.button{
+  background-color: #535c00; 
+  border-radius: 15%;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  width: 150px;
+  display: block;
+  position: relative;
+}
+.button:hover {
+    background-color: black;
+}
+table{
+    color:white;
+}
+td{
+    border-right: 1px solid yellowgreen;
+    border-bottom: 1px solid yellowgreen;
+}
+footer {
+    padding: 16px 0 16px 0;
+    color: white;
+}
